@@ -20,4 +20,3 @@ function divisible(num){
 }
 
 divisible(50);
-
